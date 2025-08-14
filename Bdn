@@ -1,14 +1,14 @@
 <?php 
 
-// قناتي » @F_Fdbot //
+// قناتي » @QQQ1_8 //
 
-// معرفي » @vfxfv //
+// معرفي » @wfr_k //
 
 //====================//
 
 ob_start();
 
-$token = "753297556:AAEd_MeO9TS8cDB1vpivXh7ufk2cCxsFnXU"; // توكن بوتك
+$token = "7886105004:AAFa_ZEC_v62WfaVdAbyMTfjk-hKGM4sI5g"; // توكن بوتك
 
 define('API_KEY',$token);
 
